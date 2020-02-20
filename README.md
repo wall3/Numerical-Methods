@@ -1,0 +1,1 @@
+This repository is a collection of jupyter notebooks that use numerical methods to solve differential equations.
